@@ -1,0 +1,64 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="lW4d8oBkHNC5GWujJM3r">
+    <mxGraphModel dx="1226" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fdfhyaizqr6Kmevl7Th5-5" target="fdfhyaizqr6Kmevl7Th5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-5" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="66" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fdfhyaizqr6Kmevl7Th5-13" target="fdfhyaizqr6Kmevl7Th5-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-13" value="单片机、锁存器的引脚初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="161" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fdfhyaizqr6Kmevl7Th5-15" target="fdfhyaizqr6Kmevl7Th5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-15" value="锁存器初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="256" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fdfhyaizqr6Kmevl7Th5-17" target="fdfhyaizqr6Kmevl7Th5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-17" value="红灯全亮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="351" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fdfhyaizqr6Kmevl7Th5-18" target="fdfhyaizqr6Kmevl7Th5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-18" value="东西绿灯亮&lt;div&gt;南北红灯亮&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="446" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fdfhyaizqr6Kmevl7Th5-19" target="fdfhyaizqr6Kmevl7Th5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-19" value="东西黄灯闪烁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="541" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fdfhyaizqr6Kmevl7Th5-20" target="fdfhyaizqr6Kmevl7Th5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-20" value="南北绿灯亮&lt;div&gt;东西红灯亮&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="541" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-21" value="南北黄灯闪烁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="446" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdfhyaizqr6Kmevl7Th5-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fdfhyaizqr6Kmevl7Th5-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="419" as="sourcePoint" />
+            <mxPoint x="428" y="424" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="614" y="422" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
