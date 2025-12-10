@@ -235,14 +235,11 @@
         <mxCell id="Hb6Ws8RyLIwi2M1vbKog-13" value="地面分割" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-26" y="689" width="85" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Hb6Ws8RyLIwi2M1vbKog-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Hb6Ws8RyLIwi2M1vbKog-14" target="Hb6Ws8RyLIwi2M1vbKog-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Hb6Ws8RyLIwi2M1vbKog-14" value="障碍物聚类" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-26" y="759" width="85" height="39" as="geometry" />
+          <mxGeometry x="85" y="689" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Hb6Ws8RyLIwi2M1vbKog-15" value="运动状态估计" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="83" y="625" width="85" height="39" as="geometry" />
+          <mxGeometry x="85" y="619" width="85" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
