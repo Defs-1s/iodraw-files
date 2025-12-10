@@ -266,7 +266,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qc59JzbC3_dEBt3NYccG-91" value="估计预测" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="500" y="433" width="120" height="60" as="geometry" />
+          <mxGeometry x="493.5" y="486" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
