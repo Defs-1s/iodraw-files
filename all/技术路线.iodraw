@@ -250,8 +250,8 @@
         <mxCell id="Hb6Ws8RyLIwi2M1vbKog-15" value="运动状态估计" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="85" y="619" width="85" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Hb6Ws8RyLIwi2M1vbKog-20" value="观测量" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-259" y="507" width="120" height="60" as="geometry" />
+        <mxCell id="Hb6Ws8RyLIwi2M1vbKog-20" value="动态障碍物识别" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9" y="731" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
