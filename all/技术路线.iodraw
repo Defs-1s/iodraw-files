@@ -278,6 +278,9 @@
         <mxCell id="Hb6Ws8RyLIwi2M1vbKog-35" value="&lt;h2&gt;数据来源&lt;/h2&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;size=-6.952410016740885;" vertex="1" parent="1">
           <mxGeometry x="-290" y="347" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Hb6Ws8RyLIwi2M1vbKog-36" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="249" y="451" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
