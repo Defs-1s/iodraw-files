@@ -230,7 +230,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hb6Ws8RyLIwi2M1vbKog-12" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-67" y="601" width="254.5" height="322" as="geometry" />
+          <mxGeometry x="-46" y="595" width="254.5" height="199" as="geometry" />
         </mxCell>
         <mxCell id="Hb6Ws8RyLIwi2M1vbKog-13" value="地面分割" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-26" y="689" width="85" height="39" as="geometry" />
