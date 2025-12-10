@@ -220,7 +220,7 @@
         <mxCell id="qc59JzbC3_dEBt3NYccG-96" value="动态障碍物检测" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3" y="846" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hb6Ws8RyLIwi2M1vbKog-7" value="IMU" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Hb6Ws8RyLIwi2M1vbKog-7" value="雷达数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-299" y="291" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
