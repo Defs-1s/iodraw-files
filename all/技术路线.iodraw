@@ -179,9 +179,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb6Ws8RyLIwi2M1vbKog-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="qc59JzbC3_dEBt3NYccG-75" target="Hb6Ws8RyLIwi2M1vbKog-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qc59JzbC3_dEBt3NYccG-75" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-42" y="192" width="254.5" height="350" as="geometry" />
         </mxCell>
@@ -254,7 +251,7 @@
           <mxGeometry x="17.25" y="740" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hb6Ws8RyLIwi2M1vbKog-29" value="矫正后点云" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;size=-6.952410016740885;" vertex="1" parent="1">
-          <mxGeometry x="193" y="233" width="120" height="60" as="geometry" />
+          <mxGeometry x="194" y="213" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hb6Ws8RyLIwi2M1vbKog-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Hb6Ws8RyLIwi2M1vbKog-12" target="qc59JzbC3_dEBt3NYccG-89">
           <mxGeometry relative="1" as="geometry" />
