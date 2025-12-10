@@ -89,7 +89,7 @@
           <mxGeometry x="351.5" y="751" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qc59JzbC3_dEBt3NYccG-35" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-334" y="203" width="211" height="157.5" as="geometry" />
+          <mxGeometry x="-335" y="223.75" width="211" height="157.5" as="geometry" />
         </mxCell>
         <mxCell id="qc59JzbC3_dEBt3NYccG-38" value="IMU" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-299" y="215.5" width="120" height="60" as="geometry" />
