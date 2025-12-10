@@ -256,7 +256,7 @@
         <mxCell id="Hb6Ws8RyLIwi2M1vbKog-15" value="运动状态估计" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="98" y="622" width="85" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Hb6Ws8RyLIwi2M1vbKog-20" value="动态障碍物识别" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Hb6Ws8RyLIwi2M1vbKog-20" value="&lt;h2&gt;动态障碍物识别&lt;/h2&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="22" y="734" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qc59JzbC3_dEBt3NYccG-91" value="估计预测" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
