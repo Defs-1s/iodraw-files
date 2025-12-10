@@ -268,7 +268,7 @@
         <mxCell id="qc59JzbC3_dEBt3NYccG-91" value="估计预测" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="493.5" y="486" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hb6Ws8RyLIwi2M1vbKog-29" value="观测量" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;size=-6.952410016740885;" vertex="1" parent="1">
+        <mxCell id="Hb6Ws8RyLIwi2M1vbKog-29" value="矫正后点云" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;size=-6.952410016740885;" vertex="1" parent="1">
           <mxGeometry x="193" y="233" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
