@@ -239,7 +239,7 @@
           <mxGeometry x="-26" y="759" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Hb6Ws8RyLIwi2M1vbKog-15" value="运动状态估计" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-26" y="828" width="85" height="39" as="geometry" />
+          <mxGeometry x="79" y="753" width="85" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
