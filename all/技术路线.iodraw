@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qc59JzbC3_dEBt3NYccG-40" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="299" y="179" width="238" height="172" as="geometry" />
+          <mxGeometry x="302" y="177" width="238" height="172" as="geometry" />
         </mxCell>
         <mxCell id="qc59JzbC3_dEBt3NYccG-42" value="构建静态地图" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="368" y="295" width="120" height="60" as="geometry" />
